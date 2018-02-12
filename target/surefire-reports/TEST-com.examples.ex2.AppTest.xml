@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.examples.ex2.AppTest" time="0.001" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.examples.ex2.AppTest" time="0" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -7,7 +7,7 @@
     <property name="java.specification.version" value="1.8"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\viraj.chhaiya\eclipse-workspace\ex2\target\test-classes;C:\Users\viraj.chhaiya\eclipse-workspace\ex2\target\classes;C:\Users\viraj.chhaiya\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\viraj.chhaiya\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="C:\Users\viraj.chhaiya\eclipse-workspace\ex2\target\test-classes;C:\Users\viraj.chhaiya\eclipse-workspace\ex2\target\classes;C:\Users\viraj.chhaiya\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\viraj.chhaiya\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\viraj.chhaiya\.m2\repository\com\plugin\demo-maven-plugin\1.0\demo-maven-plugin-1.0.jar;C:\Users\viraj.chhaiya\.m2\repository\org\apache\maven\maven-plugin-api\2.0\maven-plugin-api-2.0.jar;C:\Users\viraj.chhaiya\.m2\repository\org\codehaus\plexus\plexus-utils\3.0.8\plexus-utils-3.0.8.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -17,46 +17,46 @@
     <property name="os.name" value="Windows 8.1"/>
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\VIRAJ~1.CHH\AppData\Local\Temp\surefire384242144256553277\surefirebooter7233490284061871096.jar C:\Users\viraj.chhaiya\AppData\Local\Temp\surefire384242144256553277 2018-01-10T12-50-45_609-jvmRun1 surefire2583343581624996071tmp surefire_014005489835497199tmp"/>
-    <property name="surefire.test.class.path" value="C:\Users\viraj.chhaiya\eclipse-workspace\ex2\target\test-classes;C:\Users\viraj.chhaiya\eclipse-workspace\ex2\target\classes;C:\Users\viraj.chhaiya\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\viraj.chhaiya\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\VIRAJ~1.CHH\AppData\Local\Temp\surefire3173757384072889415\surefirebooter8203295934156997942.jar C:\Users\viraj.chhaiya\AppData\Local\Temp\surefire3173757384072889415 2018-02-12T11-46-46_504-jvmRun1 surefire4431167294060751275tmp surefire_07236435158342151753tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\viraj.chhaiya\eclipse-workspace\ex2\target\test-classes;C:\Users\viraj.chhaiya\eclipse-workspace\ex2\target\classes;C:\Users\viraj.chhaiya\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\viraj.chhaiya\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\viraj.chhaiya\.m2\repository\com\plugin\demo-maven-plugin\1.0\demo-maven-plugin-1.0.jar;C:\Users\viraj.chhaiya\.m2\repository\org\apache\maven\maven-plugin-api\2.0\maven-plugin-api-2.0.jar;C:\Users\viraj.chhaiya\.m2\repository\org\codehaus\plexus\plexus-utils\3.0.8\plexus-utils-3.0.8.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\viraj.chhaiya"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_131\jre"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_151\jre"/>
     <property name="basedir" value="C:\Users\viraj.chhaiya\eclipse-workspace\ex2"/>
     <property name="file.separator" value="\"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\VIRAJ~1.CHH\AppData\Local\Temp\surefire384242144256553277\surefirebooter7233490284061871096.jar"/>
-    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_131\jre\classes"/>
+    <property name="surefire.real.class.path" value="C:\Users\VIRAJ~1.CHH\AppData\Local\Temp\surefire3173757384072889415\surefirebooter8203295934156997942.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_151\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="java.runtime.version" value="1.8.0_131-b11"/>
+    <property name="java.runtime.version" value="1.8.0_151-b12"/>
     <property name="user.name" value="viraj.chhaiya"/>
     <property name="path.separator" value=";"/>
     <property name="os.version" value="6.3"/>
-    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\endorsed"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\endorsed"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
     <property name="localRepository" value="C:\Users\viraj.chhaiya\.m2\repository"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\VIRAJ~1.CHH\AppData\Local\Temp\"/>
-    <property name="java.version" value="1.8.0_131"/>
+    <property name="java.version" value="1.8.0_151"/>
     <property name="user.dir" value="C:\Users\viraj.chhaiya\eclipse-workspace\ex2"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="sun.os.patch.level" value=""/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Java\jdk1.8.0_131\bin\;C:\Program Files (x86)\Skype\Phone\;C:\Users\mayankkumar.patel\AppData\Local\Atlassian\SourceTree\git_local\usr\bin\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\mayankkumar.patel\node_modules;C:\Program Files\Java\jdk1.8.0_151\bin;C:\Program Files\Java\jre1.8.0_151\bin;C:\Program Files\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\Program Files (x86)\Kaspersky Lab\Kaspersky Endpoint Security 10 for Windows SP2\;C:\Applications\Atlassian\atlassian-plugin-sdk-6.3.6\bin;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Java\jdk1.8.0_131\bin\;C:\Program Files (x86)\Skype\Phone\;C:\Users\mayankkumar.patel\AppData\Local\Atlassian\SourceTree\git_local\usr\bin\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\mayankkumar.patel\node_modules;C:\Program Files\Java\jdk1.8.0_151\bin;C:\Program Files\Java\jre1.8.0_151\bin;C:\Program Files\apache-maven-3.5.2-bin\apache-maven-3.5.2\bin;C:\Program Files (x86)\Kaspersky Lab\Kaspersky Endpoint Security 10 for Windows SP2\;D:\gradle-4.5\bin;C:\Applications\Atlassian\atlassian-plugin-sdk-6.2.9\bin;."/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="java.vm.version" value="25.131-b11"/>
-    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="java.vm.version" value="25.151-b12"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
