@@ -1,0 +1,8 @@
+baseurl='http:baseurl'
+apikey='API Key'
+scope='Scope'
+filepath='File Path'
+buildid='Build ID'
+platformid='Platform Id'
+dropid='Drop ID'
+entitytype='JUNIT'
