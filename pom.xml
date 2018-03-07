@@ -49,12 +49,15 @@
 			<artifactId>qtm-maven-plugin</artifactId>
 			<version>1.0.0</version>
 			<configuration>
-				<url>https://testmanagement.qmetry.com</url>
-				<apikey>zEzs7iy77D8ARWX8xMFzJRZTzb66W0LCyaK6xdec</apikey>
-				<filepath>target\surefire-reports\*.xml</filepath>
+				<url>http://qtmnewuidev.qmetry.com</url>
+				<apikey>K9UJ5bZmaNmTyySfpfOPGOarCEpNNBISU2zbQAP6</apikey>
+				<filepath>target/surefire-reports</filepath>
 				<format>junit/xml</format>
-				<testsuitekey>JPI-TS-1</testsuitekey>
-				<cycle>MyCycle</cycle>
+				<project>DemoForBambooPlugin</project>
+				<release>release 1</release>
+				<cycle>cycle 1</cycle>
+				<platform>DemoBamboo</platform>
+				
 			</configuration>
 		</plugin>
 		<plugin>

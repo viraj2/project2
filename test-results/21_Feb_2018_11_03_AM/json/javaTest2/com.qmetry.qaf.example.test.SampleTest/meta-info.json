@@ -1,0 +1,145 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [
+        "R"
+      ],
+      "metaData": {
+        "dataFile": "",
+        "groups": [
+          "P1",
+          "storykey=ZAL-1"
+        ],
+        "hasHeaderRow": false,
+        "key": "data.test",
+        "name": "testGoogleSearch5",
+        "sheetName": "",
+        "sign": "SampleTest.testGoogleSearch5(java.lang.String)[pri:0, instance:com.qmetry.qaf.example.test.SampleTest@e056f20]",
+        "sqlQuery": ""
+      },
+      "dependsOn": [],
+      "startTime": 1519211033734,
+      "duration": 0,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 2,
+      "type": "test",
+      "args": [
+        "S"
+      ],
+      "metaData": {
+        "dataFile": "",
+        "groups": [
+          "P1",
+          "storykey=ZAL-1"
+        ],
+        "hasHeaderRow": false,
+        "key": "data.test",
+        "name": "testGoogleSearch5",
+        "resultFileName": "testGoogleSearch5xcx",
+        "sheetName": "",
+        "sign": "SampleTest.testGoogleSearch5(java.lang.String)[pri:0, instance:com.qmetry.qaf.example.test.SampleTest@e056f20]",
+        "sqlQuery": ""
+      },
+      "dependsOn": [],
+      "startTime": 1519211033764,
+      "duration": 1,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [
+          "P1",
+          "storykey=ZAL-1"
+        ],
+        "name": "testGoogleSearch41",
+        "sign": "SampleTest.testGoogleSearch41()[pri:0, instance:com.qmetry.qaf.example.test.SampleTest@e056f20]"
+      },
+      "dependsOn": [],
+      "startTime": 1519211033779,
+      "duration": 4,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [
+          "P1",
+          "storykey=ZAL-1"
+        ],
+        "name": "testGoogleSearch4",
+        "sign": "SampleTest.testGoogleSearch4()[pri:0, instance:com.qmetry.qaf.example.test.SampleTest@e056f20]"
+      },
+      "dependsOn": [],
+      "startTime": 1519211033783,
+      "duration": 15,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [
+          "P1",
+          "storykey=ZAL-1"
+        ],
+        "name": "testGoogleSearch3",
+        "sign": "SampleTest.testGoogleSearch3()[pri:0, instance:com.qmetry.qaf.example.test.SampleTest@e056f20]"
+      },
+      "dependsOn": [],
+      "startTime": 1519211033798,
+      "duration": 16,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [
+          "P1",
+          "storykey=ZAL-1"
+        ],
+        "name": "testGoogleSearch2",
+        "sign": "SampleTest.testGoogleSearch2()[pri:0, instance:com.qmetry.qaf.example.test.SampleTest@e056f20]"
+      },
+      "dependsOn": [],
+      "startTime": 1519211033830,
+      "duration": 0,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [
+          "P1",
+          "storykey=ZAL-1"
+        ],
+        "name": "testGoogleSearch1",
+        "sign": "SampleTest.testGoogleSearch1()[pri:0, instance:com.qmetry.qaf.example.test.SampleTest@e056f20]"
+      },
+      "dependsOn": [],
+      "startTime": 1519211033845,
+      "duration": 0,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}

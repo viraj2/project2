@@ -1,0 +1,42 @@
+{
+  "total": 7,
+  "pass": 2,
+  "fail": 0,
+  "skip": 5,
+  "classes": [
+    "com.qmetry.qaf.example.test.SampleTest"
+  ],
+  "envInfo": {
+    "browser-desired-capabilities": {
+      "browserName": "chrome",
+      "takesScreenshot": true,
+      "javascriptEnabled": true,
+      "version": "",
+      "platform": "ANY",
+      "cssSelectorsEnabled": true
+    },
+    "browser-actual-capabilities": {},
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "10",
+      "qaf-Version": "2.1",
+      "qaf-Build-Time": "03-Jan-2017 14:01:00"
+    },
+    "run-parameters": {
+      "baseurl": "http://www.google.com/",
+      "resources": "resources"
+    },
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "1.8.0_151",
+      "os.arch": "amd64",
+      "host": "ICPL10426",
+      "os.name": "Windows 8.1",
+      "user.name": "viraj.chhaiya",
+      "os.version": "6.3"
+    }
+  },
+  "startTime": 1519209445783,
+  "endTime": 1519209445923
+}
